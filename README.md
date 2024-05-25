@@ -76,4 +76,4 @@ We welcome contributions from anyone! To contribute to Cloudmate, please follow 
 <img src="https://bloclibrary.dev/assets/bloc_architecture_full.png"/>
 
 ### How I can join project?
-- Reach me by email: lambiengcode@gmail.com
+- Reach me by email: jaylee.watcher@gmail.com
